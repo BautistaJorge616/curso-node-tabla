@@ -1,0 +1,20 @@
+{
+  "name": "seccion_2bases",
+  "version": "0.0.1",
+  "description": "Genera las tablas de multiplicar y las guarda en un txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tablas",
+    "de",
+    "multiplicar"
+  ],
+  "author": "Jorge Bautista",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}
